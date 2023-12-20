@@ -1,3 +1,3 @@
-A vida tentou me derrubar, mas eu já estava no chão!
+# Título do README
 
-JavaScript.
+Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
